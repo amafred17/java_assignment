@@ -1,1 +1,2 @@
 # java_assignment
+Write a Java Class that have methods that accomplish the following: a) A method that takes a string as input and tells you whether that string is a valid email address. A valid email address should contain the character @, and not have any spaces with at least one period(.) with minimum of 2 characters after the period(.). b) A method that reads grades from the file final.txt and analyzes grades by determining the average grade, the number of grades above the average and the modal grade. c) Write a main method that uses the above 2 methods.
